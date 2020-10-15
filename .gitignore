@@ -1,0 +1,11 @@
+# Python compiled modules
+__pycache__
+
+# Visual Studio Code debug properties
+.vscode
+
+# Historical files
+*.hist
+
+# Text files
+*.txt
